@@ -8,3 +8,8 @@ robo 3t: herramienta para conectarnos a MongoDB
 
 para correr la app:
 ```nodemon server/server```
+
+En heroku configuramos las variables de entorno (conexion bd)
+```heroku config:set nombre="xxxxx" ```
+```heroku config:get nombre```
+```heroku config:unset nombre```
