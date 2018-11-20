@@ -6,4 +6,5 @@ heroku: https://mighty-beach-27933.herokuapp.com/
 
 robo 3t: herramienta para conectarnos a MongoDB
 
-nodemon server/server
+para correr la app:
+```nodemon server/server```
