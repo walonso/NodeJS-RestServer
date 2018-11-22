@@ -26,3 +26,8 @@ function parseJwt (token) {
 
 Paquete en node para manejo de jwt:
 npm jsonwebtoken
+
+Heroku: 
+https://mighty-beach-27933.herokuapp.com/
+
+
